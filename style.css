@@ -153,7 +153,7 @@
   header ul li a:hover,
   header ul li a:active {
     color: var(--light-100);
-    background-color: var(--primary-050);
+    background-color: red;
   }
   
   @media (min-width: 769px) {
